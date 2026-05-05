@@ -1,0 +1,25 @@
+Problem Name,URL,Difficulty,Topic
+Two Sum,https://leetcode.com/problems/two-sum/,Easy,Hash Map
+Add Two Numbers,https://leetcode.com/problems/add-two-numbers/,Medium,Linked List
+Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,Sliding Window
+Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,Binary Search
+Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,Binary Search
+Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,Two Pointers
+Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,Sorting
+Text Justification,https://leetcode.com/problems/text-justification/,Hard,String
+Largest Rectangle in Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/,Hard,Monotonic Stack
+Binary Tree Maximum Path Sum,https://leetcode.com/problems/binary-tree-maximum-path-sum/,Hard,DFS / Tree
+Word Ladder,https://leetcode.com/problems/word-ladder/,Hard,BFS / Graph
+LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,Design
+Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,DFS / BFS
+Reverse Linked List,https://leetcode.com/problems/reverse-linked-list/,Easy,Linked List
+Word Search II,https://leetcode.com/problems/word-search-ii/,Hard,Backtracking / Trie
+Find the Duplicate Number,https://leetcode.com/problems/find-the-duplicate-number/,Medium,Binary Search
+Range Sum Query - Mutable,https://leetcode.com/problems/range-sum-query-mutable/,Medium,Segment Tree
+Logger Rate Limiter,https://leetcode.com/problems/logger-rate-limiter/,Easy,Design (Premium)
+Evaluate Division,https://leetcode.com/problems/evaluate-division/,Medium,Graph / Union-Find
+Robot Room Cleaner,https://leetcode.com/problems/robot-room-cleaner/,Hard,Backtracking (Premium)
+Rotting Oranges,https://leetcode.com/problems/rotting-oranges/,Medium,BFS / Matrix
+Koko Eating Bananas,https://leetcode.com/problems/koko-eating-bananas/,Medium,Binary Search
+Stream of Characters,https://leetcode.com/problems/stream-of-characters/,Hard,Trie
+Count of Smaller Numbers After Self,https://leetcode.com/problems/count-of-smaller-numbers-after-self/,Hard,Segment Tree
